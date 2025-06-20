@@ -1,4 +1,4 @@
-package br.com.ContaBanco;
+package br.com.Desafios;
 
 import java.util.Scanner;
 
